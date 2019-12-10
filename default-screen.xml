@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <LinearLayout xmlns:android="http://schemas.android.com/main/res/layout-watch-v20"
+ <Button
+  android:id="a.a.b@c2b81e8"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_weight="1065353216"
+  android:style="a.a.a.b@18b3001"/>
+ <Button
+  android:id="a.a.a.b@2a9eea6"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_weight="1065353216"
+  android:style="a.a.a.b@37560e7"/>
+ <Button
+  android:id="a.a.a.b@62ad494"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap content"
+  android:layout_weight="1065353216"
+  android:style="a.a.a.b@b79cb3d"/>
+</LinearLayout>
